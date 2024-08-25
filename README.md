@@ -5,6 +5,7 @@
 - 📫 Reach me by email at aepeltier96@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I enjoy drawing characters and writing longform fan fiction
+- 🎓 I have a B.A. in Writing and a Google certificate in Digital Marketing & E-commerce
 
 <!---
 AidenInFlames/AidenInFlames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
